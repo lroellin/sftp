@@ -1,5 +1,5 @@
 FROM debian:stretch
-MAINTAINER Adrian Dvergsdal [atmoz.net]
+MAINTAINER Lukas Röllin, forked from atmoz/sftp [atmoz.net]
 
 # Steps done in one RUN layer:
 # - Install packages
